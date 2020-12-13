@@ -1,1 +1,1 @@
-# TeamWork
+# Udacity courses
