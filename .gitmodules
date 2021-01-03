@@ -1,3 +1,6 @@
 [submodule "SelfDrivingCarND/CarND-LaneLines-P1"]
 	path = SelfDrivingCarND/CarND-LaneLines-P1
 	url = https://github.com/Cras1990/CarND-LaneLines-P1.git
+[submodule "SensorFusion/SFND_Lidar_Obstacle_Detection"]
+	path = SensorFusion/SFND_Lidar_Obstacle_Detection
+	url = https://github.com/Cras1990/SFND_Lidar_Obstacle_Detection.git
